@@ -1,0 +1,22 @@
+{
+  "name": "cypresswithtypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.2",
+    "@types/cypress": "^1.1.3",
+    "@types/node": "^22.0.0",
+    "cypress": "^13.13.1",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
